@@ -1,5 +1,5 @@
-{"id": 1, "name": "Tanishq", "location": "Katraj, Pune", "salary": "40000"}
-{"id": 2, "name": "Saurabh", "location": "Kharadi, Pune", "salary": "70000"}
-{"id": 3, "name": "Arjun", "location": "Kothrud, Pune", "salary": "80000"}
-{"id": 4, "name": "Ajinkya", "location": "High Street, Banglore", "salary": "60000"}
+{"id": 1, "name": "Tanishq", "location": "Katraj, Pune", "salary": "40000"},
+{"id": 2, "name": "Saurabh", "location": "Kharadi, Pune", "salary": "70000"},
+{"id": 3, "name": "Arjun", "location": "Kothrud, Pune", "salary": "80000"},
+{"id": 4, "name": "Ajinkya", "location": "High Street, Banglore", "salary": "60000"},
 {"id": 5, "name": "Tony", "location": "State Building, New York", "salary": "1000000"}
