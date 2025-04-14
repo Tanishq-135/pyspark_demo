@@ -1,5 +1,4 @@
-{
-  "employees": [
+[
     {
       "id": 1,
       "name": "Tanishq",
@@ -30,5 +29,4 @@
       "location": "State Building, New York",
       "salary": "1000000"
     }
-  ]
-}
+]
