@@ -1,5 +1,4 @@
-[
-    {
+{
       "id": 1,
       "name": "Tanishq",
       "location": "Katraj, Pune",
@@ -28,5 +27,4 @@
       "name": "Tony",
       "location": "State Building, New York",
       "salary": "1000000"
-    }
-]
+}
