@@ -1,6 +1,8 @@
-{
-  "id": 1, 
-  "name": "Tanishq", 
-  "location": "Katraj, Pune", 
-  "salary": "40000"
-}
+[
+  {
+    "id": 1, 
+    "name": "Tanishq", 
+    "location": "Katraj, Pune", 
+    "salary": "40000"
+  }
+]
